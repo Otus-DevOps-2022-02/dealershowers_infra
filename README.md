@@ -19,3 +19,4 @@ dealershowers Infra repository
 # и в дальнейшем подключаемся через ssh  someinternalhost
 bastion_IP = 51.250.75.108
 someinternalhost_IP = 10.128.0.32
+#еще неожиданно в момент проверки может отключиться машина в яндексе, вообще огонь)
