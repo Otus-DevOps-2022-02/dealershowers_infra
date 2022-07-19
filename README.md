@@ -16,6 +16,6 @@ dealershowers Infra repository
 #    port 2222
 #    HostName 62.84.124.191
 #    User curator
-# и в дальнейшем подключаемся через ssh someinternalhost
+# и в дальнейшем подключаемся через ssh  someinternalhost
 bastion_IP = 51.250.75.108
 someinternalhost_IP = 10.128.0.32
