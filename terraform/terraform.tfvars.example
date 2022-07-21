@@ -1,0 +1,10 @@
+token_id                 = "1"
+cloud_id                 = "1"
+folder_id                = "1"
+zone                     = "ru-central1-a"
+image_id                 = "fd8pductnu1borkgcb7h"
+public_key_path          = "./yc.pub"
+subnet_id                = "e9b1kch61vk28ha912fb"
+service_account_key_file = "yc"
+lb_region                = "ru-central1"
+instances                = 2
