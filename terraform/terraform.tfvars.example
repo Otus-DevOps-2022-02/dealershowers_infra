@@ -1,0 +1,11 @@
+token_id                 = "AQAAAAAWCXe-AATuwcFAlOx5pkOnjZqfY7EvqYg"
+cloud_id                 = "b1gdbp6vvavg82d19v2v"
+folder_id                = "b1gt28qhsa3ap34p6olt"
+zone                     = "ru-central1-a"
+image_id                 = "fd8pductnu1borkgcb7h"
+public_key_path          = "/home/curator/keys/yc.pub"
+subnet_id                = "e9b1kch61vk28ha912fb"
+service_account_key_file = "yc"
+lb_region                = "ru-central1"
+instances                = 1
+bucket_name              = "my-tfstate-bucket"
