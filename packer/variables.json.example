@@ -1,7 +1,6 @@
 {
-	"folder_id": "bsdfsd8qhsa3ap34p6olt",
-    "svc_account_key_file": "key.json.example",
-    "source_image_name": "ubuntu-1604-lts",
-    "image_name_base": "reddit-base-{{timestamp}}",
-    "catalog_id": "kLdhYHjf739dfm3sldf"
+    "key_file_path": "key.json",
+    "folder_id": "test-folder",
+    "source_image": "ubuntu-1604-lts",
+    "ssh_username": "ubuntu"
 }
